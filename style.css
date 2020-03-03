@@ -14,14 +14,15 @@ h1 {
 
 .left, .right {
     background-color: #fc9fb3;
-    padding: 10px 20px;
+    /* padding: 10px 20px; */
     font-size: 25px;
     color: white;
+    width: 7%;
     
 }
 
 .left {
-    margin-left: 47%;
+    margin-left: 43%;
     margin-top: 10px;
 }
 
